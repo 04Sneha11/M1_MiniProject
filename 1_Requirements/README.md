@@ -2,7 +2,7 @@
 
 ## INTRODUCTION:
 
-Restaurant Bill Generation System is a project that manages and generates the bill information automatically according to customer's orders. The system helps the restaurant management to keep a constant track of all the orders and generate the total bill with tax and discount accordingly.
+Restaurant Bill Generation System is a project that manages and generates the bill information automatically according to customer's orders.The customers are of two categories : 1.Adult and 2.Children. The system helps the restaurant management to keep a constant track of all the orders and generate the total bill with tax and discount according to the cateogory of person ordering the food item along with the quantity of food item being ordered by each individual.
 
 The project titled Restaurant Bill Generation System is Restaurant Bill Generation System for monitoring and controlling the transactions in a restaurant. The project “Restaurant Bill Generation System” is developed in C, which mainly focuses on the menu generation according to the customer and the final net bill generation.
 
