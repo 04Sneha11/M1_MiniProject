@@ -1,8 +1,6 @@
-#include<restaurant_bill_generation_system.h>
+#include<stdio.h>
 
-/**
- * @brief function to display the items in menu
- */
+#include "print_meals.h"
 
 void printMeals()
 {
